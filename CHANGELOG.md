@@ -1,5 +1,12 @@
 # 更新日志
 
+## [3.1.0](https://github.com/szvictor/release-it-demo/compare/3.0.0...3.1.0) (2023-05-28)
+
+
+### ✨ Features | 新功能
+
+* 更改配置名称 ([5e852db](https://github.com/szvictor/release-it-demo/commit/5e852db1f9b6317ad2b44d30788835d6b39804af))
+
 ## [3.0.0](https://github.com/szvictor/release-it-demo/compare/2.14.2...3.0.0) (2023-05-28)
 
 
@@ -116,4 +123,3 @@
 ### ✨ Features | 新功能
 
 * 修改release.js ([8245bed](https://github.com/szvictor/release-it-demo/commit/8245bede9cd0d3cbd5d632fb38cf908db52e3eb3))
-
