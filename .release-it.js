@@ -3,7 +3,7 @@ module.exports = {
     "@release-it/conventional-changelog": {
       "infile": "CHANGELOG.md",
       "preset": {
-        "name": "atom",
+        "name": "codemirror",
         "types": [{
           "type": "feat",
           "section": "✨ Features | 新功能",
