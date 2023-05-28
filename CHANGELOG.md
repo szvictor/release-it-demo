@@ -1,4 +1,11 @@
+# 更新日志
 
+# [1.2.0](https://github.com/szvictor/release-it-demo/compare/1.1.1...1.2.0) (2023-05-28)
+
+
+### Features
+
+* 修改release-it配置 ([3d794ed](https://github.com/szvictor/release-it-demo/commit/3d794edc7f33be5c946a7db55098a2c309685498))
 
 ## [1.1.1](https://github.com/szvictor/release-it-demo/compare/1.1.0...1.1.1) (2023-05-28)
 
