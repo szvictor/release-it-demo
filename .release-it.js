@@ -3,7 +3,7 @@ module.exports = {
     "@release-it/conventional-changelog": {
       "infile": "CHANGELOG.md",
       "preset": {
-        "name": "express",
+        "name": "jquery",
         "types": [{
           "type": "feat",
           "section": "✨ Features | 新功能",
