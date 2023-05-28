@@ -7,7 +7,7 @@
 
 * 测试preset([3587883](https://github.com/szvictor/release-it-demo/commit/3587883bef17f60f9c8f00f481866bd434176b56))
 
-### [1.8.1](https://github.com/szvictor/release-it-demo/compare/1.8.0...1.8.1) (2023-05-28)
+## [1.8.1](https://github.com/szvictor/release-it-demo/compare/1.8.0...1.8.1) (2023-05-28)
 
 ## [1.8.0](https://github.com/szvictor/release-it-demo/compare/1.7.0...1.8.0) (2023-05-28)
 
