@@ -1,5 +1,12 @@
 # 更新日志
 
+## [2.13.0](https://github.com/szvictor/release-it-demo/compare/2.12.0...2.13.0) (2023-05-28)
+
+
+### ✨ Features | 新功能
+
+* 测试github action ([edb9182](https://github.com/szvictor/release-it-demo/commit/edb91826ba7c50385d7ecfff9e62ef9d2d4c0716))
+
 ## [2.12.0](https://github.com/szvictor/release-it-demo/compare/2.11.0...2.12.0) (2023-05-28)
 
 
@@ -80,4 +87,4 @@
 
 ### ✨ Features | 新功能
 
-* 修改release.js ([8245bed](https://github.com/szvictor/release-it-demo/commit/8245bede9cd0d3cbd5d632fb38cf908db52e3eb3)) 
+* 修改release.js ([8245bed](https://github.com/szvictor/release-it-demo/commit/8245bede9cd0d3cbd5d632fb38cf908db52e3eb3))
