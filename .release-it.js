@@ -65,4 +65,8 @@ module.exports = {
   "npm": {
     "publish": false
   },
+  github: {
+    release: true,
+    "tokenRef": "GITHUB_TOKEN",
+  }
 }
