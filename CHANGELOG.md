@@ -1,5 +1,12 @@
 # 更新日志
 
+## [3.0.0](https://github.com/szvictor/release-it-demo/compare/2.14.2...3.0.0) (2023-05-28)
+
+
+### 🐛 Bug Fixes | Bug 修复
+
+* 测试 ([13c336a](https://github.com/szvictor/release-it-demo/commit/13c336a480f1e5bd78d74d38e672b07d76cdcfd3))
+
 ## [2.14.0](https://github.com/szvictor/release-it-demo/compare/2.13.0...2.14.0) (2023-05-28)
 
 
