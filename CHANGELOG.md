@@ -1,6 +1,6 @@
 # 更新日志
 
-# [1.2.0](https://github.com/szvictor/release-it-demo/compare/1.1.1...1.2.0) (2023-05-28)
+## [1.2.0](https://github.com/szvictor/release-it-demo/compare/1.1.1...1.2.0) (2023-05-28)
 
 
 ### Features
@@ -9,7 +9,7 @@
 
 ## [1.1.1](https://github.com/szvictor/release-it-demo/compare/1.1.0...1.1.1) (2023-05-28)
 
-# 1.1.0 (2023-05-28)
+## 1.1.0 (2023-05-28)
 
 
 ### Features
