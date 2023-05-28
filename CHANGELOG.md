@@ -1,5 +1,12 @@
 # 更新日志
 
+### [1.4.4](https://github.com/szvictor/release-it-demo/compare/1.4.3...1.4.4) (2023-05-28)
+
+
+### Bug Fixes
+
+* 修改release.js ([4691914](https://github.com/szvictor/release-it-demo/commit/4691914dc942627182228caca2fec5ccc86d1fe0))
+
 ### [1.4.3](https://github.com/szvictor/release-it-demo/compare/1.4.2...1.4.3) (2023-05-28)
 
 
