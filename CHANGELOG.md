@@ -1,5 +1,12 @@
 # 更新日志
 
+# [1.3.0](https://github.com/szvictor/release-it-demo/compare/1.2.0...1.3.0) (2023-05-28)
+
+
+### Features
+
+* 测试图标 ([c411ae7](https://github.com/szvictor/release-it-demo/commit/c411ae78740ad0ae1996d3bb7b15d642a708a50d))
+
 ## [1.2.0](https://github.com/szvictor/release-it-demo/compare/1.1.1...1.2.0) (2023-05-28)
 
 
