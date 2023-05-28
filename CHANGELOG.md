@@ -1,5 +1,12 @@
 # 更新日志
 
+# [1.4.0](https://github.com/szvictor/release-it-demo/compare/1.3.0...1.4.0) (2023-05-28)
+
+
+### Features
+
+* 测试hidden属性 ([4a61fe2](https://github.com/szvictor/release-it-demo/commit/4a61fe2ce61ded8a03677a1694dc09ed93c6b9e2))
+
 # [1.3.0](https://github.com/szvictor/release-it-demo/compare/1.2.0...1.3.0) (2023-05-28)
 
 
