@@ -4,8 +4,7 @@ on:
     branches:
       - main
 jobs:
-  release:
+  Explore-Github-Actions:
     runs-on: ubuntu-latest
     steps:
-      - name: 第一步
       run: echo "发布版本"
