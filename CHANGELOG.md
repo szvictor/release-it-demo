@@ -1,5 +1,18 @@
 # 更新日志
 
+## [1.8.4](https://github.com/szvictor/release-it-demo/compare/1.8.3...1.8.4) (2023-05-28)
+
+
+### fix
+
+* 测试preset([0a998a2](https://github.com/szvictor/release-it-demo/commit/0a998a28f62d1fc3b51bd05b94be9d6fb4b671db))
+* 测试preset([6f41f00](https://github.com/szvictor/release-it-demo/commit/6f41f00b0d8641cdcf7b9c3bc15a5189bb6727e5))
+* 测试preset([a46d157](https://github.com/szvictor/release-it-demo/commit/a46d157ec1a8ab98b5294e527d8fa0add8521e32))
+* 测试preset([3233f12](https://github.com/szvictor/release-it-demo/commit/3233f12d11162e6d5327ba7a65ca44c363dfd0bc))
+* 测试preset([d448143](https://github.com/szvictor/release-it-demo/commit/d44814372a73d5d8d2a881ec88f31b2be5286efb))
+* 测试preset([a3a3dfc](https://github.com/szvictor/release-it-demo/commit/a3a3dfcac8557fc318354cef2253ffec7f054afb))
+* 测试preset([9007dff](https://github.com/szvictor/release-it-demo/commit/9007dff4dccaf7618eee92853dc8fb9acb30b734))
+
 ### [1.8.3](https://github.com/szvictor/release-it-demo/compare/1.8.2...1.8.3) (2023-05-28)
 
 
