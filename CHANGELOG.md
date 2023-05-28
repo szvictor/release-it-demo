@@ -1,5 +1,12 @@
 # 更新日志
 
+## [1.5.0](https://github.com/szvictor/release-it-demo/compare/1.4.4...1.5.0) (2023-05-28)
+
+
+### Features
+
+* 测试 ([bdee1b2](https://github.com/szvictor/release-it-demo/commit/bdee1b2d392d909a5ed38da074faed5f6a1e7dbc))
+
 ### [1.4.4](https://github.com/szvictor/release-it-demo/compare/1.4.3...1.4.4) (2023-05-28)
 
 
