@@ -1,5 +1,12 @@
 # 更新日志
 
+### [1.4.2](https://github.com/szvictor/release-it-demo/compare/1.4.1...1.4.2) (2023-05-28)
+
+
+### Bug Fixes
+
+* 测试部分配置 ([b2d1904](https://github.com/szvictor/release-it-demo/commit/b2d1904443aba833773a07412f57a492e9b07ec2))
+
 ## [1.4.1](https://github.com/szvictor/release-it-demo/compare/1.4.0...1.4.1) (2023-05-28)
 
 # [1.4.0](https://github.com/szvictor/release-it-demo/compare/1.3.0...1.4.0) (2023-05-28)
