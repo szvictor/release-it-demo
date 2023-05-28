@@ -1,5 +1,12 @@
 # 更新日志
 
+## [2.11.0](https://github.com/szvictor/release-it-demo/compare/1.10.0...2.11.0) (2023-05-28)
+
+
+### ✨ Features | 新功能
+
+* 测试发布大版本 ([e495a27](https://github.com/szvictor/release-it-demo/commit/e495a27a78941c580f2c65a84886e715635bfd84))
+
 ## [1.10.0](https://github.com/szvictor/release-it-demo/compare/1.8.6...1.10.0) (2023-05-28)
 
 
