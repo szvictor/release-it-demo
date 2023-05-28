@@ -1,0 +1,11 @@
+name: release
+on: 
+  push:
+    branches:
+      - main
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 第一步
+      run: echo "发布版本"
