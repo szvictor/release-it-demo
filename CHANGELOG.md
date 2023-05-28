@@ -1,5 +1,12 @@
 # 更新日志
 
+### [1.8.3](https://github.com/szvictor/release-it-demo/compare/1.8.2...1.8.3) (2023-05-28)
+
+
+### 🐛 Bug Fixes | Bug 修复
+
+* 测试preset ([01b4eef](https://github.com/szvictor/release-it-demo/commit/01b4eefc2747f661a52d4a8ec5fbc65710ead1b3))
+
 ## [1.8.2](https://github.com/szvictor/release-it-demo/compare/1.8.1...1.8.2) (2023-05-28)
 
 
