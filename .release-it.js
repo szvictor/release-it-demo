@@ -3,8 +3,9 @@ module.exports = {
     "@release-it/conventional-changelog": {
       "infile": "CHANGELOG.md",
       "preset": {
-        "name": "angular",
-        "types": [{
+        "name": "conventionalcommits",
+        "types": [
+          {
           "type": "feat",
           "section": "✨ Features | 新功能",
         },
