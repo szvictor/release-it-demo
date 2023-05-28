@@ -7,4 +7,5 @@ jobs:
   Explore-Github-Actions:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/setup-node@v2
       run: echo "发布版本"
