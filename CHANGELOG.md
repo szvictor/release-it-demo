@@ -1,5 +1,12 @@
 # 更新日志
 
+### [2.14.2](https://github.com/szvictor/release-it-demo/compare/2.14.1...2.14.2) (2023-05-28)
+
+
+### ✨ Features | 新功能
+
+* 调整GitHub actions ([c35b171](https://github.com/szvictor/release-it-demo/commit/c35b171fb8a0ba657f428cc1181c1508bdaf6c55))
+
 ### [2.14.1](https://github.com/szvictor/release-it-demo/compare/2.14.0...2.14.1) (2023-05-28)
 
 ## [2.14.0](https://github.com/szvictor/release-it-demo/compare/2.13.0...2.14.0) (2023-05-28)
