@@ -7,7 +7,7 @@ module.exports = {
         "types": [{
           "type": "feat",
           "section": "✨ Features | 新功能",
-          "hidden": false
+          "hidden": true
         },
         {
           "type": "fix",
