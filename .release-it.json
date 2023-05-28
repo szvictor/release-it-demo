@@ -7,7 +7,7 @@
   },
   "git": {
     "commitMessage": "chore: release v${version}",
-    "requireBranch": "master"
+    "requireBranch": "main"
   },
   "npm": {
     "publish": false
