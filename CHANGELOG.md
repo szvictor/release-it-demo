@@ -1,5 +1,7 @@
 # 更新日志
 
+## [1.4.1](https://github.com/szvictor/release-it-demo/compare/1.4.0...1.4.1) (2023-05-28)
+
 # [1.4.0](https://github.com/szvictor/release-it-demo/compare/1.3.0...1.4.0) (2023-05-28)
 
 
