@@ -1,0 +1,11 @@
+# yml name
+name: CI
+on: workflow_dispatch
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one line
+        run: echo Hello world!
+    
+
